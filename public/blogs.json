@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://picsum.photos/800/400?random=1",
+    "title": "The Rise of AI in Daily Life",
+    "author": "Alice Johnson",
+    "author_img": "https://randomuser.me/api/portraits/women/1.jpg",
+    "posted_date": "2024-10-15",
+    "reading_time": 5,
+    "hashtags": ["AI", "Technology", "Innovation"]
+  },
+  {
+    "id": 2,
+    "cover": "https://picsum.photos/800/400?random=2",
+    "title": "A Beginner’s Guide to Web3",
+    "author": "David Smith",
+    "author_img": "https://randomuser.me/api/portraits/men/2.jpg",
+    "posted_date": "2024-09-28",
+    "reading_time": 8,
+    "hashtags": ["Web3", "Blockchain", "Crypto"]
+  },
+  {
+    "id": 3,
+    "cover": "https://picsum.photos/800/400?random=3",
+    "title": "Exploring the Cosmos: Space Travel in 2050",
+    "author": "Rachel Green",
+    "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+    "posted_date": "2024-10-10",
+    "reading_time": 12,
+    "hashtags": ["Space", "Travel", "Future"]
+  },
+  {
+    "id": 4,
+    "cover": "https://picsum.photos/800/400?random=4",
+    "title": "Designing with Tailwind CSS: Tips and Tricks",
+    "author": "Michael Lee",
+    "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+    "posted_date": "2024-10-01",
+    "reading_time": 6,
+    "hashtags": ["Design", "CSS", "Tailwind"]
+  },
+  {
+    "id": 5,
+    "cover": "https://picsum.photos/800/400?random=5",
+    "title": "Mental Health and Remote Work: Striking a Balance",
+    "author": "Emma Brown",
+    "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+    "posted_date": "2024-10-20",
+    "reading_time": 7,
+    "hashtags": ["Mental Health", "Remote Work", "Wellness"]
+  }
+]
